@@ -1,0 +1,7 @@
+# Defaults for image training.
+
+N_epoch: 200
+lr: 0.00005
+l2_norm: 0.0
+batch_size: 128
+num_workers: 0

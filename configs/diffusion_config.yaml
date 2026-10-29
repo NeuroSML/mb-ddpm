@@ -1,0 +1,3 @@
+interval: 1000
+beta_max: 0.3
+snr_threshold: 4

@@ -1,0 +1,3 @@
+data_dir: ./samples/
+source_name: blurgauss,jpeg5,sr4xbicubic,noisegauss
+target_name: clean
